@@ -1,0 +1,134 @@
+#pa{
+    display: flex;
+    border: 0px solid rgb(3, 2, 2);
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color:white;
+   
+}
+#ch{
+    
+    width: 480px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#ma{
+    align-items: center;
+    width: 400px;
+    display: flex;
+    
+}
+#input{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cat{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: Helvetica,Arial,sans-serif;
+    border-color: lightslategrey;
+    color:white;
+    height: 40px;
+    background-color: #2b5468;
+    
+  
+}
+
+
+
+
+* {
+box-sizing: border-box;
+}
+
+.bg-img {
+background-image: url("Asset/xl.webp");
+min-height: 380px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+color: white;
+font-size: 18px;
+ line-height: 27px;
+
+}
+.container {
+position: absolute;
+right: 0;
+margin: 20px;
+max-width: 300px;
+padding: 16px;
+background-color: white;
+}
+#kk{
+    text-align: center;
+    font-size: 17px;
+    line-height: 24px;
+    font-weight: 600;
+}
+#img1{
+    margin-left: 85px;
+}
+#line{
+    border: 9px solid #e6a01e;
+    -webkit-writing-mode: vertical-rl;
+    margin-left: 636px;
+}
+#path{
+    margin-left: 447px;
+}
+
+#box11{
+    text-align: left;
+    margin-top: -48px;
+    margin-left: 93px;
+}
+#line1{
+    border-left: 50px solid #e6a01e;
+    margin-left: 64px;
+    margin-top: 70px;  
+}
+#line2{
+    border-left: 50px solid #e6a01e;
+    margin-left: 647px;
+    margin-top: 70px; 
+    
+}
+#imgs{
+    margin-left: 110px;
+    
+}
+#boxes {
+    background-color: white;
+    width: 85px;
+    border: 2px solid green;
+    padding: 20px 0px 0px 0px;
+    margin-left: 125px;
+    height: 51px;
+    text-align: center;
+  }
+
+  .big-img {
+    background-image: url("Asset/technology-banner-background-with-hexagonal-shapes-text-space_1017-22589.jpg");
+    min-height: 380px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-size: 18px;
+     line-height: 27px;
+    
+    }
+    
